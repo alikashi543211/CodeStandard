@@ -1,0 +1,6 @@
+1: Controller me method names simple rakhney hen.
+2: Swagger documentation me operationId unique rakhni he.
+3: Koi b Controller us ka model se instance banana he.
+4: Simple methods k elawa jo b method uska helper bna k us k andar rakhna he.
+5: Admin portal me Educator k boht se controllers hen to wo educator folder k andar hon.
+6: Else if lagaaney hen.
